@@ -8,7 +8,7 @@ The overview of this data analysis was to determine if bias towards 5 star revie
   - The number of paid Vine reviews were 107 and the number of non paid Vine reviews were 39, 869.    
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
   - The number of paid Vine 5 star reviews were 56 and the number of non Vine 5 star reviews were 21,005.
-- What percentage of Vine reviews were 5 stars? 
+- What percentage of paid Vine reviews were 5 stars? 
   - The percent of paid Vine 5 star reviews was .52.3 %.
 - What percentage of non-Vine reviews were 5 stars?
   - The percent of non paid Vine 5 star reviews was 52.7%.
