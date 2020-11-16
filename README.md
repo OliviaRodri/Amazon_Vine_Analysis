@@ -25,5 +25,5 @@ Break down of results for Paid Vine Reviews:
 
 
 ##  Summary:
-In summary, this data analysis indicates there was a slight difference between a non Vine 5 star review (52.7%) verses a paid Vine 5 star review (52.3%). Therefore, having a paid Vine review made no difference in the percentage of 5-star reviews based of these percentages. To further support or disprove this result, the same analysis could take place for a 4 star review between the non paid Vine and paid Vine reviews.
+In summary, this data analysis indicates there was a slight difference between a non Vine 5 star review (52.7%) verses a paid Vine 5 star review (52.3%). Therefore, having a paid Vine review made no difference in the percentage of 5-star reviews based on these percentages. To further support or disprove this result, the same analysis could take place for a 4 star review between the non paid Vine and paid Vine reviews.
 
